@@ -1,14 +1,7 @@
-<!-- Cover Image -->
-<img src="https://png.pngtree.com/background/20231101/original/pngtree-creating-3d-renderings-for-mobile-apps-software-and-web-development-picture-image_5821871.jpg" alt="Cover Image" style="display: block; margin-left: auto; margin-right: auto; width: 80%;">
-
 # 💫 About Me:
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex:1;">
     👩‍🎓 I'm an undergraduate student at KDU.<br>🔭 I’m currently working on My Final-Year Project<br>🌱 I’m currently learning Spring Boot<br>📩 How to reach me ahinsasathsarani622@gmail.com<br>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <!-- GIF Image -->
-    <img src="URL_OF_YOUR_GIF" alt="GIF" style="width: 300px;">
   </div>
 </div>
 
